@@ -85,6 +85,13 @@ markdown:
   render:
     html: true
 
+algolia:
+  applicationID: '6GC2RR0EUT'
+  apiKey: '06323f11ad142b6951fec93f9e2dedff'
+  adminApiKey: '494c46376da9f0a63fd04f87ab83787d'
+  indexName: 'michaelpei'
+  chunkSize: 5000
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:

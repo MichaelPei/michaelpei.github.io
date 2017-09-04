@@ -1,7 +1,7 @@
 ---
 title: 苹果 App 转移主体遇到的问题
 date: 2017-09-01 17:24:18
-tags: [iOS, Transfering, 坑]
+tags: [iOS, Transfering, 坑, Apple Pay]
 categories: [经验, iOS]
 
 ---
