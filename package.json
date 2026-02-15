@@ -2,8 +2,18 @@
   "name": "hexo-site",
   "version": "0.0.0",
   "private": true,
+  "description": "Michael Pei blog source (Hexo)",
   "hexo": {
-    "version": "3.3.8"
+    "version": "3.9.0"
+  },
+  "engines": {
+    "node": ">=20 <21"
+  },
+  "scripts": {
+    "clean": "hexo clean",
+    "build": "hexo generate",
+    "serve": "hexo server",
+    "new": "hexo new"
   },
   "dependencies": {
     "hexo": "^3.2.0",

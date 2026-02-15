@@ -12,7 +12,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://michaelpei.com
+url: https://michaelpei.com
 root: /
 permalink: :year/:title/
 permalink_defaults:
@@ -86,10 +86,10 @@ markdown:
     html: true
 
 algolia:
-  applicationID: '6GC2RR0EUT'
-  apiKey: '06323f11ad142b6951fec93f9e2dedff'
-  adminApiKey: '494c46376da9f0a63fd04f87ab83787d'
-  indexName: 'michaelpei'
+  applicationID: ''
+  apiKey: ''
+  adminApiKey: ''
+  indexName: ''
   chunkSize: 5000
 
 # Deployment
